@@ -30,10 +30,10 @@ Include screenshots or GIFs showcasing different gameplay scenarios here.
 
 ## Development Environment
 
-- **Android Studio:** Version X.X.X
-- **Minimum SDK Version:** X.X
-- **Target SDK Version:** X.X
-- **Java Version:** X.X
+- **Android Studio:** Version jellyfish
+- **Minimum SDK Version:** 34
+- **Target SDK Version:** 34
+- **Java Version:** 17
 
 ## Contributing
 
