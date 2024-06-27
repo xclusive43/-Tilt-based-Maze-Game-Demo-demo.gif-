@@ -1,8 +1,7 @@
 # Tilt-based Maze Game
 
 Tilt-based Maze Game is an Android application where players navigate a ball through a maze by tilting their device. The game utilizes the device's accelerometer sensor to control the movement of the ball.
-
-![Tilt-based Maze Game Demo](demo.gif)
+<img src="upload.jpg" alt="Tilt-based Maze Game Demo" width="280" height="600">
 
 ## Features
 
